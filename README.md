@@ -1,5 +1,4 @@
 # Awesome-Masked-Autoencoder
-Masked autoencoder. 
 ![MAE](MAE.png)
 
 A curated list of awesome masked autoencoder papeprs in self-supervised learning
