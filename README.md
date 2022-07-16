@@ -1,5 +1,4 @@
 # Awesome-Masked-Autoencoder
-![MAE](MAE.png)
 ![MarineGEO circle logo](MAE.png)
 
 A curated list of awesome masked autoencoder papeprs in self-supervised learning
