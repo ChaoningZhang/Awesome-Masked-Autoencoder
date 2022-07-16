@@ -8,7 +8,7 @@ We will wrap it up as soon as possible (stay tuned!)
 
 
 
-## Images
+## Masked Image Modeling
 
 [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) \
 [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886) \
